@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-clone",
+  "version": "1.0.0",
+  "description": "This is whatapp-clone project made with love by Rushikesh Saraf ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rushikesh Saraf",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  }
+}
